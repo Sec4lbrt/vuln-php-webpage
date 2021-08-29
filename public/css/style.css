@@ -1,0 +1,23 @@
+.container {
+	margin: 0 auto;
+	width: 50%;
+}
+
+.centered{
+	text-align: center;
+}
+
+label {
+	display: block;
+	margin: 5px 0;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+tr {
+	padding: 5px;
+	border-bottom: 1px solid #aaa;
+}
